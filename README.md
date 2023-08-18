@@ -1,1 +1,1 @@
-yoyoyo
+Implementing a React application using TWGL (Tiny WebGL Helper library).
