@@ -1,0 +1,20 @@
+.App {
+  color: #e4fffb;
+  background-color: #008080;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.theme {
+  color: #008080;
+  background-color: #e4fffb;
+}
+
+.theme-alt {
+  color: #e4fffb;
+  background-color: #008080;
+}
+

@@ -1,0 +1,9 @@
+.canv {
+    outline: solid black;
+    outline-width: 2px;
+}
+
+canvas {
+    outline: solid black;
+    outline-width: 2px;
+}
